@@ -16,18 +16,18 @@ SVM Classifier` for my University's Course `Machine Learning`.
 
 This project was built using two of the most popular Machine Learning Technique named SVM and MNB.
 It is a classification-based supervised learning project. 
-Both [bnlp_Toolkit](https://pypi.org/project/bnlp-toolkit/) and Manually created [`Stopwords`](https://www.ranks.nl/stopwords/bengali) list were used for different approach.  
-Natural Language Processing techniques like TF-IDF also used for feature extraction. 
-The Dataset is collected from Github and the language of the dataset is Bangla. 
+Both [`bnlp_Toolkit`](https://pypi.org/project/bnlp-toolkit/) and Manually created [`Stopwords`](https://www.ranks.nl/stopwords/bengali) list were used for different approach.  
+Natural Language Processing technique like TF-IDF also used for feature extraction. 
+
 
 ### 2. Dataset:
 
-Dataset is provided by Kaggle and can be found at below links:
+The Dataset is collected from [Github](https://github.com/gulzar09/Bangla_Fake-Real_News_Small_Dataset) and the language of the dataset is Bangla. 
 
 ### 3. File Descriptions:
-1. `data.csv` - the whole dataset
-2. `Real` - 1719
-3. `Fake` - 1803   
+1. `FinalData1.csv` - the whole dataset
+2. `Real` - 1548
+3. `Fake` - 993   
 
 ### 4. Models:
 1. `TF-IDF` - TF-IDF is a very popular feature extraction technique. Text needs to converted into vector or matrix before fed them to the Machine Learning model.  
