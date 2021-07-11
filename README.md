@@ -16,7 +16,7 @@ SVM Classifier` for my University's Course `Machine Learning`.
 
 This project was built using two of the most popular Machine Learning Technique named SVM and MNB.
 It is a classification-based supervised learning project. 
-bnlp
+Both [bnlp_Toolkit](https://pypi.org/project/bnlp-toolkit/) and Manually created stopwords list were used for different approach.  
 Natural Language Processing techniques like TF-IDF also used for feature extraction. 
 The Dataset is collected from Github and the language of the dataset is Bangla. 
 
