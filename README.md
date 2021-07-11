@@ -12,7 +12,8 @@
 ### 1. Description:
 This is a simple implementation of a paper named `Detection of Bangla Fake News using MNB and
 SVM Classifier` for my University's Course `Machine Learning`.
->Authors : Md Gulzar Hussain, Md Rashidul Hasan, Mahmuda Rahman, Joy Protim and Sakib Al Hasan
+>Authors : Md Gulzar Hussain, Md Rashidul Hasan, Mahmuda Rahman, Joy Protim and Sakib Al Hasan.
+
 This project was built using two of the most popular Machine Learning Technique named SVM and MNB.
 It is a classification-based supervised learning project. 
 bnlp
